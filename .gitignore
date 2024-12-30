@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+#.env things 
+MONGO = mongodb+srv://tech4ern:pADNes8ODLy6ajpd@cluster0.bzg1tha.mongodb.net/RealEstate_Database?retryWrites=true&w=majority
+JWT_SECRET =  cbsjcbschvsyucv
